@@ -1,1 +1,4 @@
-fky;yvy;
+<<<<<<< .mine
+fsdffsdfsdfsdfsdfsdfsdfsdfsdfsdfdfdsf||||||| .r3
+=======
+fky;yvy;>>>>>>> .r4
